@@ -49,8 +49,8 @@ To run the example usage, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone Attat-Repo-interview>
-   cd Attat-Repo-interview>
+   git clone Code-Repo-interview>
+   cd Code-Repo-interview>
    ```
 
 2. Install dependencies:
