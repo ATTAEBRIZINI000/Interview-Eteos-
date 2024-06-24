@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "heap-js": "^2.5.0",
+    "heapify": "^0.6.0",
+    "sorted-btree": "^1.8.1"
+  },
+  "type": "module"
+}
